@@ -1,0 +1,42 @@
+//
+//  TicketModel.swift
+//  5StarGlobalEntertainment-TKCS
+//
+//  Created by chetu on 21/12/22.
+//
+
+import Foundation
+struct TicketModel: Codable {
+    var statusCode: Int?
+    var success: Bool?
+    var message: String?
+    var data: [Datum]?
+}
+
+// MARK: - Datum
+struct Datum: Codable {
+    var id, userID, eventID: Int?
+    var ticketTitle, ticketType: String?
+    var quantity, noOfSoldTickets, price: Int?
+    var endDate, endTime: String?
+    var status: Int?
+    var deletedAt, createdAt: String?
+    var updatedAt: String?
+
+    enum CodingKeys: String, CodingKey {
+        case id
+        case userID = "user_id"
+        case eventID = "event_id"
+        case ticketTitle = "ticket_title"
+        case ticketType = "ticket_type"
+        case quantity
+        case noOfSoldTickets = "no_of_sold_tickets"
+        case price
+        case endDate = "end_date"
+        case endTime = "end_time"
+        case status
+        case deletedAt = "deleted_at"
+        case createdAt = "created_at"
+        case updatedAt = "updated_at"
+    }
+}

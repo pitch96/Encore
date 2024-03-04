@@ -1,0 +1,26 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target '5StarGlobalEntertainment-TKCS' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+#   #pod 'SwiftLint'
+   #pod 'Alamofire'
+   pod 'SideMenu'
+   pod 'IQKeyboardManagerSwift'
+pod 'MBProgressHUD', '~> 1.1.0'
+   
+
+  # Pods for 5StarGlobalEntertainment-TKCS
+
+  target '5StarGlobalEntertainment-TKCSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target '5StarGlobalEntertainment-TKCSUITests' do
+    # Pods for testing
+  end
+
+end

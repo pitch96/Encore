@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "validTicket.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

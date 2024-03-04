@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  5StarGlobalEntertainment-TKCS
+
+  Created by chetu on 25/11/22.
+  
+*/
+//MARK: Login
+"locEmail" = "Email";
+"locPassword" = "Password";
+"locPleaseEnterEmailAddress" = "Please enter email address.";
+"locPleaseEnterValidEmailAddress" = "Please enter valid email address.";
+
+//MARK: SIGNUP
+
+"locFirstName"= "First Name";
+"locLastName" = "Last Name";
+"locPhoneNumber" = "(123)-456-7890";
+"locCompany" = "Company Name";
+"locConfirmPassword" = "Confirm Password";
+"locPleaseEnterFirstName" = "Please enter first name.";
+"locPleaseEnterValidFirstName" = "Please enter valid first name.";
+"locPleaseEnterLastName" = "Please enter last name.";
+"locPleaseEnterValidLastName" = "Please enter valid last name.";
+"locPleaseEnterPhone" = "Please enter phone number.";
+"locPleaseEnterValidPhone" = "Please enter valid phone number.";
+"locPleaeEnterCompanyName" = "Please enter company name.";
+"locPleaseEnterValidCompanyName" = "Please enter valid company name.";
+"locPleaseEnterPassword" = "Please enter password.";
+"locPleaseEnterValidPassword" = "Please enter valid password.";
+"locPleaseEnterConfirmPassword" = "Please enter confirm password.";
+"locPasswordAndConfirmPassword" = "Password and confirm password must be same.";
+"locMismatchPassword" = "Paasword confirm password mismatch.";
+
+
+//MARK: Forget Password View Controller--
+"locEmail" = "Email";
+
+//MARK: Reset password View controller--
+"locOtp" = "OTP";
+"locNewPassword" = "New password";
+ "locConfirmPassword" = "Confirm Password";
+
+
+//MARK: HOME VIEW CONTROLLER
+"locDateText" = "dd-mm-yyyy";
+"locSearchText" = "Search For Event Title";
+
+//MARK: Ticket View Controller
+"locNoTicket" = "No more ticket available";
+"locSelectTicketType" = "Please first select ticket type!";
+
+//MARK: SIde menu view controller
+ "locLogoutMessage"= "Are you sure you want to logout!";
+
+
+
+//MARK: Profile View Controller
+"locUsername" = "Please enter username.";
+"locValidUsername" = "Please enter valid username.";
+"locFullname" = "Please enter full name.";
+"locValidFullname" = "Please enter valid full name.";
+"locContact" = "Please enter contact number.";
+"locValidContact" = "Please enter valid contact number.";
+"locPickPhoto" = "pick a photo";
+"locChooseLibrary" =  "choose a picture from Library or camera";
+"locCamera" = "Camera";
+"locGallary" = "Gallary";
+"locCancel" = "Cancel";
+
+
+//MARK: Create Event View Controller
+
+"locEnterEvent" = "Please enter event title.";
+"locEnterCategory" = "Please enter category field.";
+"locEnterOrganizer" = "Please enter organizer name.";
+"locEnterStartDate" = "Please select start date.";
+"locEnterEndDate" = "Please select end date.";
+"locEnterStartTime" = "Please select start time.";
+"locEnterEndTime" = "Please select end time.";
+"locEnterVenue" = "Please enter venue deatil";
+"locEnterAdress" = "Please enter address.";
+"locEnterCity" = "Please enter city.";
+"locEnterZipCode" = "Please enter zip code";
+"locEnterDescription" = "Please enter description.";
+"locTimeStamp" = "please choose a time stamp";
+
+
+//MARK: Manage Event View Controller
+"locYes" = "Yes";
+"locLiveEvent" ="Are you sure, you want to make live this event?";
+"locTitleEvent" ="Are you sure?";
+
+//MARK: Payment checkout view controller
+"locPleaseEnterState" = "Please enter state.";
+"locPleaseEnterCity" = "Please enter city.";
+"locPleaseEnterZipcode" = "Please enter zipcode";
+"locPleaseEnterValidZipcode" = "Please enter valid zipcode";
+"locPleaseEnterAddress" = "Please enter address.";
+
+//MARK: Payment View Controller
+"locPleaseEnterHolderName" = "Please enter card holder name.";
+"locPleaseEnterCardNumber" = "Please enter card number.";
+"locPleaseEnterExpiryMonth" = "Please enter expiry month.";
+"locPleaseEnterExiryYear" = "Please enter expiry year.";
+"locPleaseEnterCvv" = "Please enter cvv.";
+
+// MARK: Add Banner
+"locEnterDescription" = "Please enter description";

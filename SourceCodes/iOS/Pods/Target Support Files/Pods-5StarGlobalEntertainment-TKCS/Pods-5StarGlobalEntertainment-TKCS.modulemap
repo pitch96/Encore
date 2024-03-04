@@ -1,0 +1,6 @@
+framework module Pods_5StarGlobalEntertainment_TKCS {
+  umbrella header "Pods-5StarGlobalEntertainment-TKCS-umbrella.h"
+
+  export *
+  module * { export * }
+}

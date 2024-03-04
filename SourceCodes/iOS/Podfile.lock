@@ -1,0 +1,71 @@
+PODS:
+  - iOSDropDown (0.4.0)
+  - IQKeyboardManagerSwift (6.5.10)
+  - MBProgressHUD (1.1.0)
+  - SDWebImage (5.14.2):
+    - SDWebImage/Core (= 5.14.2)
+  - SDWebImage/Core (5.14.2)
+  - SideMenu (6.5.0)
+  - Stripe (23.3.2):
+    - StripeApplePay (= 23.3.2)
+    - StripeCore (= 23.3.2)
+    - StripePayments (= 23.3.2)
+    - StripePaymentsUI (= 23.3.2)
+    - StripeUICore (= 23.3.2)
+  - StripeApplePay (23.3.2):
+    - StripeCore (= 23.3.2)
+  - StripeCore (23.3.2)
+  - StripePayments (23.3.2):
+    - StripeCore (= 23.3.2)
+    - StripePayments/Stripe3DS2 (= 23.3.2)
+  - StripePayments/Stripe3DS2 (23.3.2):
+    - StripeCore (= 23.3.2)
+  - StripePaymentsUI (23.3.2):
+    - StripeCore (= 23.3.2)
+    - StripePayments (= 23.3.2)
+    - StripeUICore (= 23.3.2)
+  - StripeUICore (23.3.2):
+    - StripeCore (= 23.3.2)
+  - SwiftLint (0.50.0)
+
+DEPENDENCIES:
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - MBProgressHUD (~> 1.1.0)
+  - SDWebImage
+  - SideMenu
+  - Stripe
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - SDWebImage
+    - SideMenu
+    - Stripe
+    - StripeApplePay
+    - StripeCore
+    - StripePayments
+    - StripePaymentsUI
+    - StripeUICore
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  SDWebImage: b9a731e1d6307f44ca703b3976d18c24ca561e84
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  Stripe: a11f72e054b581f16064d5b735e33a056f197c34
+  StripeApplePay: e6267e960bee142c5140137c79f36639d96be2d2
+  StripeCore: e7a5ef22f15ca26f83a9d8f52e87c6767317a268
+  StripePayments: e56a21a758f06cb6048aae711d60c135ac49eaf7
+  StripePaymentsUI: d3fa98cca974d6b29a331b7efe8c4803cdfe47de
+  StripeUICore: b8514392b8d679a1be9739198e2df4168f34c8a7
+  SwiftLint: 9cbf846727f3312f3ba722f2d7108a162cd050a5
+
+PODFILE CHECKSUM: 4db4f0322c05bfb0797d9339f9b2086ffc0e48eb
+
+COCOAPODS: 1.11.3

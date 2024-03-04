@@ -1,0 +1,104 @@
+excluded: # paths to ignore during linting. Takes precedence over `included`.
+  - Carthage
+  - Pods
+  
+  
+disabled_rules: # rule identifiers to exclude from running
+  - colon
+  - comma
+  - control_statement
+  - trailing_whitespace
+  - opening_brace
+  - statement_position
+  - shorthand_operator
+  - vertical_whitespace
+  - comment_spacing
+  - force_cast
+  - identifier_name
+  - large_tuple
+  - force_try
+  - return_arrow_whitespace
+  - type_name
+  - unused_closure_parameter
+  - unused_setter_value
+  - computed_accessors_order
+  - unused_capture_list
+  - legacy_hashing
+  - orphaned_doc_comment
+  - for_where
+  - redundant_optional_initialization
+  - type_name
+  - orphaned_doc_comment
+  - redundant_discardable_let
+  - function_body_length
+  - unused_enumerated
+  - multiple_closures_with_trailing_closure
+  - valid_ibinspectable
+  - notification_center_detachment
+  - legacy_constructor
+  - closure_parameter_position
+  - empty_enum_arguments
+  - syntactic_sugar
+  - trailing_newline
+  - type_body_length
+  - nesting
+ 
+# configurable rules can be customized from this configuration file
+# binary rules can set their severity level
+#force_cast: warning # implicitly
+ 
+#force_try:
+  #severity: warning # explicitly
+  
+# rules that have both warning and error levels, can set just the warning level
+# implicitly
+line_length: 1200
+ 
+# they can set both implicitly with an array
+type_body_length:
+  - 450 # warning
+  - 2000 # error
+# or they can set both explicitly
+ 
+file_length:
+  warning: 2000
+  error: 4000
+  
+# naming rules can set warnings/errors for min_length and max_length
+# additionally they can set excluded names
+variable_name:
+ # max_length:
+  #  warning: 45
+  #  error: 60
+ # min_length:
+ #   warning: 3
+ # allowed_symbols: ["_"] # these are allowed in type names
+    
+type_name:
+ # min_length: 3 # only warning
+ # max_length: # warning and error
+  #  warning: 60
+ #   error: 90
+ # excluded: iPhone # excluded via string
+  #allowed_symbols: ["_"] # these are allowed in type names
+ 
+cyclomatic_complexity:
+  warning: 80
+  error: 80
+  
+reporter: "xcode"
+ 
+function_parameter_count: 20
+function_body_length: 300
+ 
+empty_parentheses_with_trailing_closure:
+warning: 100
+error: 180
+ 
+orphaned_doc_comment:
+warning: 100
+error: 180
+ 
+#compiler_protocol_init:
+#warning: 100
+#error: 200

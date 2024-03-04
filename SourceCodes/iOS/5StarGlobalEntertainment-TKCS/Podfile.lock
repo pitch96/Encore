@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManagerSwift (6.5.10)
+  - MBProgressHUD (1.1.0)
+  - SideMenu (6.5.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - MBProgressHUD (~> 1.1.0)
+  - SideMenu
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - MBProgressHUD
+    - SideMenu
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+
+PODFILE CHECKSUM: 98477b25d9f17d97348180fbfdd44b06f5302ce5
+
+COCOAPODS: 1.11.3

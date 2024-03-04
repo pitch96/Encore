@@ -1,0 +1,27 @@
+<?php
+
+return [
+    "ADMIN_TYPE"                    => 1,
+    "PROMOTER_TYPE"                 => 3,
+    "USER_TYPE"                     => 2,
+    'STRIPE_ACCOUNT_API'            => 'https://api.stripe.com/v1/accounts',
+    'STRIPE_ACCOUNT_LINKS_API'      => 'https://api.stripe.com/v1/account_links',
+    'STRIPE_KEY'                    => 'pk_test_51LTUDwAZeADNyTCBN7zrxfnUkaFlrKymrvj9gzQqfCLkihC42FDpwzm8Y3m7Nodg6ddli3UF3A4i2p41D6kEXNPL00nNUFIVrH',
+    'STRIPE_SECRET'                 => 'sk_test_51LTUDwAZeADNyTCBRHNd4dlYsdga3hYNMKfRaFcfrp1EOy24PmKwYkvIZFxSO6vqM9c1bTUAOdLKSdEonilKnurB00cdAoWebs',
+    'ADMIN_EMAIL1'                  => 'chobbs@newdirectionhomehealth.com',
+    'ADMIN_EMAIL2'                  => 'admin@encoreevents.live',
+    'ADMIN_EMAIL3'                  => 'info@encoreevents.live',
+    'ADMIN_EMAIL4'                  => 'customerservice@encoreevents.live',
+    'ADMIN_EMAIL5'                  => 'subscribe@encoreevents.live',
+    'ADMIN_EMAIL6'                  => 'admin@yopmail.com',
+    'ENCORE_EVENTS_FACEBOOK_URL'    => 'https://www.facebook.com/profile.php?id=100087609113747&mibextid=ZbWKwL',
+    'ENCORE_EVENTS_INSTAGRAM_URL'   => 'https://www.instagram.com/encoreeventsinc/',
+    "AMOUNT_TO_PROMOTE_EVENT"       => 1000,
+    "ABOUT_US"                      => 1,
+    "TERMS_CONDITIONS"              => 3,
+    "PRIVACY_POLICY"                => 2,
+    "SALES"                         => 4,
+    "GOOGLE_RECAPTCHA_KEY"          => '6LcqzGwkAAAAAAJlLRGh8YHrKsE5Vk_PlqV6UabV',
+    "GOOGLE_RECAPTCHA_SECRET"       => '6LcqzGwkAAAAAEDZyAJl-BaFyFc8GTucT7vXvZ2U',
+    "GOOGLE_RECAPTCHA_SITE"         => 'https://www.google.com/recaptcha/admin/',
+];

@@ -1,0 +1,204 @@
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "1bp-gG-q4r"; */
+"1bp-gG-q4r.placeholder" = "Last Name";
+
+/* Class = "UIButton"; configuration.title = "Forgot Password?"; ObjectID = "2fr-pj-GGm"; */
+"2fr-pj-GGm.configuration.title" = "Forgot Password?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2fr-pj-GGm"; */
+"2fr-pj-GGm.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Our Company"; ObjectID = "3uA-qH-L0x"; */
+"3uA-qH-L0x.text" = "Our Company";
+
+/* Class = "UILabel"; text = "Musical Event"; ObjectID = "71M-qo-kL9"; */
+"71M-qo-kL9.text" = "Musical Event";
+
+/* Class = "UITextField"; placeholder = "search for event title"; ObjectID = "8YM-oc-r7p"; */
+"8YM-oc-r7p.placeholder" = "search for event title";
+
+/* Class = "UIButton"; configuration.title = "Search"; ObjectID = "8zW-kX-h1g"; */
+"8zW-kX-h1g.configuration.title" = "Search";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8zW-kX-h1g"; */
+"8zW-kX-h1g.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Search For Event Title"; ObjectID = "9q6-zN-WA8"; */
+"9q6-zN-WA8.placeholder" = "Search For Event Title";
+
+/* Class = "UIButton"; configuration.title = "Profile"; ObjectID = "9sI-yJ-F9x"; */
+"9sI-yJ-F9x.configuration.title" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9sI-yJ-F9x"; */
+"9sI-yJ-F9x.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "SOY EL RATON TOUR 2022"; ObjectID = "AN2-82-hxO"; */
+"AN2-82-hxO.text" = "SOY EL RATON TOUR 2022";
+
+/* Class = "UITextField"; placeholder = "Email id"; ObjectID = "ApA-Vg-gZs"; */
+"ApA-Vg-gZs.placeholder" = "Email id";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "CD1-WP-njY"; */
+"CD1-WP-njY.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Company Name"; ObjectID = "D7S-H5-fdJ"; */
+"D7S-H5-fdJ.placeholder" = "Company Name";
+
+/* Class = "UIButton"; configuration.title = "LogIn/Sign Up"; ObjectID = "DLt-gg-mO4"; */
+"DLt-gg-mO4.configuration.title" = "LogIn/Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DLt-gg-mO4"; */
+"DLt-gg-mO4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Apr 02, 8:00 PM"; ObjectID = "HT7-cz-LVT"; */
+"HT7-cz-LVT.text" = "Apr 02, 8:00 PM";
+
+/* Class = "UIButton"; configuration.title = "Sign Up"; ObjectID = "HYb-7f-hCa"; */
+"HYb-7f-hCa.configuration.title" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HYb-7f-hCa"; */
+"HYb-7f-hCa.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Buyer"; ObjectID = "I3W-vj-T06"; */
+"I3W-vj-T06.normalTitle" = "Buyer";
+
+/* Class = "UILabel"; text = "Hello there Sign Up to Continue"; ObjectID = "JU4-UW-vcF"; */
+"JU4-UW-vcF.text" = "Hello there Sign Up to Continue";
+
+/* Class = "UIButton"; normalTitle = "Login/Sign Up"; ObjectID = "OXl-U4-fPf"; */
+"OXl-U4-fPf.normalTitle" = "Login/Sign Up";
+
+/* Class = "UIButton"; configuration.title = "SEMINAR"; ObjectID = "P0W-Wv-KIe"; */
+"P0W-Wv-KIe.configuration.title" = "SEMINAR";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "P0W-Wv-KIe"; */
+"P0W-Wv-KIe.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Events By Category"; ObjectID = "PMn-8x-rHD"; */
+"PMn-8x-rHD.text" = "Events By Category";
+
+/* Class = "UIButton"; configuration.title = "DANCING EVENT"; ObjectID = "Qt1-UW-4EU"; */
+"Qt1-UW-4EU.configuration.title" = "DANCING EVENT";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qt1-UW-4EU"; */
+"Qt1-UW-4EU.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "SRw-DY-raK"; */
+"SRw-DY-raK.normalTitle" = "Search";
+
+/* Class = "UILabel"; text = "Welcome!"; ObjectID = "Tum-sA-Wsf"; */
+"Tum-sA-Wsf.text" = "Welcome!";
+
+/* Class = "UILabel"; text = "Not Registered yet?"; ObjectID = "XdF-6U-rQ8"; */
+"XdF-6U-rQ8.text" = "Not Registered yet?";
+
+/* Class = "UIButton"; normalTitle = "ALL"; ObjectID = "Xj0-k6-ZRH"; */
+"Xj0-k6-ZRH.normalTitle" = "ALL";
+
+/* Class = "UILabel"; text = "Musical Event"; ObjectID = "Xy4-3t-MdL"; */
+"Xy4-3t-MdL.text" = "Musical Event";
+
+/* Class = "UIButton"; normalTitle = "SEMINAR"; ObjectID = "YaM-R1-rmd"; */
+"YaM-R1-rmd.normalTitle" = "SEMINAR";
+
+/* Class = "UIButton"; normalTitle = "About us"; ObjectID = "Ycq-mY-75b"; */
+"Ycq-mY-75b.normalTitle" = "About us";
+
+/* Class = "UILabel"; text = "CODIGON FN - NALDO PM"; ObjectID = "ZBY-nI-an0"; */
+"ZBY-nI-an0.text" = "CODIGON FN - NALDO PM";
+
+/* Class = "UILabel"; text = "Nov 1 - 20"; ObjectID = "aA9-Lx-b52"; */
+"aA9-Lx-b52.text" = "Nov 1 - 20";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "aJg-Kf-KlX"; */
+"aJg-Kf-KlX.placeholder" = "Confirm Password";
+
+/* Class = "UIButton"; configuration.title = "MUSICAL"; ObjectID = "bMR-TP-dwa"; */
+"bMR-TP-dwa.configuration.title" = "MUSICAL";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bMR-TP-dwa"; */
+"bMR-TP-dwa.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "beT-F8-IWW"; */
+"beT-F8-IWW.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "(123) 456-789"; ObjectID = "caV-rr-bgK"; */
+"caV-rr-bgK.placeholder" = "(123) 456-789";
+
+/* Class = "UILabel"; text = "Get weekly program and schedule subscribe our newsletter"; ObjectID = "cut-Kh-X51"; */
+"cut-Kh-X51.text" = "Get weekly program and schedule subscribe our newsletter";
+
+/* Class = "UILabel"; text = "A-186 Noida"; ObjectID = "fCI-7N-HZQ"; */
+"fCI-7N-HZQ.text" = "A-186 Noida";
+
+/* Class = "UIButton"; normalTitle = "Contact us"; ObjectID = "gNT-kz-Dcy"; */
+"gNT-kz-Dcy.normalTitle" = "Contact us";
+
+/* Class = "UILabel"; text = "Events By Catagory"; ObjectID = "gx8-p3-ecf"; */
+"gx8-p3-ecf.text" = "Events By Catagory";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ilE-ao-JRk"; */
+"ilE-ao-JRk.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "DANCING EVENT"; ObjectID = "j8V-An-2hj"; */
+"j8V-An-2hj.normalTitle" = "DANCING EVENT";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "kpg-2u-ekf"; */
+"kpg-2u-ekf.placeholder" = "Email";
+
+/* Class = "UIButton"; configuration.title = "ALL"; ObjectID = "lT1-5V-Vvt"; */
+"lT1-5V-Vvt.configuration.title" = "ALL";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lT1-5V-Vvt"; */
+"lT1-5V-Vvt.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Nov 1-30"; ObjectID = "lcV-mv-JKE"; */
+"lcV-mv-JKE.text" = "Nov 1-30";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "ljy-aD-QZE"; */
+"ljy-aD-QZE.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "Welcome!"; ObjectID = "m57-lz-gay"; */
+"m57-lz-gay.text" = "Welcome!";
+
+/* Class = "UILabel"; text = "A-186 Noida"; ObjectID = "nvY-eK-VLU"; */
+"nvY-eK-VLU.text" = "A-186 Noida";
+
+/* Class = "UIButton"; normalTitle = "MUSICAL"; ObjectID = "oUr-d8-C3Z"; */
+"oUr-d8-C3Z.normalTitle" = "MUSICAL";
+
+/* Class = "UITextField"; placeholder = "dd-mm-yyyy"; ObjectID = "op5-9V-K7z"; */
+"op5-9V-K7z.placeholder" = "dd-mm-yyyy";
+
+/* Class = "UIButton"; normalTitle = "Promotor"; ObjectID = "ork-IG-kf1"; */
+"ork-IG-kf1.normalTitle" = "Promotor";
+
+/* Class = "UILabel"; text = "TOVAR - POZZIDO"; ObjectID = "p0b-Ms-HeP"; */
+"p0b-Ms-HeP.text" = "TOVAR - POZZIDO";
+
+/* Class = "UIButton"; normalTitle = "Terms & Conditions"; ObjectID = "pMn-2y-Bur"; */
+"pMn-2y-Bur.normalTitle" = "Terms & Conditions";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ppZ-Y9-PJU"; */
+"ppZ-Y9-PJU.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "qHU-OB-4DS"; */
+"qHU-OB-4DS.configuration.title" = "Login";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qHU-OB-4DS"; */
+"qHU-OB-4DS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Most popular event"; ObjectID = "tTP-0p-aKa"; */
+"tTP-0p-aKa.text" = "Most popular event";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "vag-je-ee9"; */
+"vag-je-ee9.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Most Popular Event"; ObjectID = "wf3-K0-djx"; */
+"wf3-K0-djx.text" = "Most Popular Event";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy"; ObjectID = "yY6-OH-7E9"; */
+"yY6-OH-7E9.normalTitle" = "Privacy Policy";
+
+/* Class = "UIButton"; normalTitle = "Subscribe"; ObjectID = "zfH-Ms-CGZ"; */
+"zfH-Ms-CGZ.normalTitle" = "Subscribe";

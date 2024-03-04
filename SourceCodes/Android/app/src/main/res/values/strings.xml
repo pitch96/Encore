@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Encore Events</string>
+    <string name="lock_icon">Lock Icon</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="login">Login</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <string name="login_credentials_are_invalid">Login credentials are invalid</string>
+    <string name="the_email_has_already_been_taken">The email has already been taken</string>
+    <string name="the_selected_email_is_invalid">The selected email is invalid</string>
+    <string name="wrong_otp_please_enter_correct_otp">Wrong OTP! Please enter correct OTP</string>
+    <string name="token_is_invalid">Token is Invalid</string>
+    <string name="no_banners_found">No banners found</string>
+    <string name="no_record_found">No record found</string>
+    <string name="most_popular_event">Most Popular Event</string>
+    <string name="events_by_category">Events By Category</string>
+    <string name="search_for_event_title">Search For Event Title</string>
+    <string name="logout">Logout</string>
+    <string name="start_date">Start Date</string>
+    <string name="date_time"><![CDATA[Date & Time]]></string>
+    <string name="title">Title</string>
+    <string name="event_details">Event Details</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="organizer">Organizer</string>
+    <string name="end_date">End Date</string>
+    <string name="start_time">Start Time</string>
+    <string name="end_time">End Time</string>
+    <string name="event_image">Event Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="authorization_token_not_found">Authorization Token not found</string>
+</resources>

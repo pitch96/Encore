@@ -1,0 +1,12 @@
+${PODS_ROOT}/Target Support Files/Pods-5StarGlobalEntertainment-TKCS/Pods-5StarGlobalEntertainment-TKCS-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/SideMenu/SideMenu.framework
+${BUILT_PRODUCTS_DIR}/Stripe/Stripe.framework
+${BUILT_PRODUCTS_DIR}/StripeApplePay/StripeApplePay.framework
+${BUILT_PRODUCTS_DIR}/StripeCore/StripeCore.framework
+${BUILT_PRODUCTS_DIR}/StripePayments/StripePayments.framework
+${BUILT_PRODUCTS_DIR}/StripePaymentsUI/StripePaymentsUI.framework
+${BUILT_PRODUCTS_DIR}/StripeUICore/StripeUICore.framework
+${BUILT_PRODUCTS_DIR}/iOSDropDown/iOSDropDown.framework

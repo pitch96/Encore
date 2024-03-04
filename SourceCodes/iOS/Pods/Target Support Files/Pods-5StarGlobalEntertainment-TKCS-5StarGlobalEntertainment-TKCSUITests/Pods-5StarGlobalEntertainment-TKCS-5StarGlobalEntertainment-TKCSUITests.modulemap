@@ -1,0 +1,6 @@
+framework module Pods_5StarGlobalEntertainment_TKCS_5StarGlobalEntertainment_TKCSUITests {
+  umbrella header "Pods-5StarGlobalEntertainment-TKCS-5StarGlobalEntertainment-TKCSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
